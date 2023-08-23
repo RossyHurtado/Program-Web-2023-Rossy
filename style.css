@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f8fdff;
+}
+
+
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+
+#app {
+  display: flex;
+  flex-direction:column;
+}
+
